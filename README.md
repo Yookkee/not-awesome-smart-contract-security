@@ -10,6 +10,9 @@
 * [Understanding The **DAO Attack**](https://www.coindesk.com/understanding-dao-hack-journalists/)
 * [**Predicting Random Numbers** in Ethereum Smart Contracts](https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620)
 
+### Talks
+* [PHDays2018. Blockchain security: technology vulnerabilities and a smart contract auditor's instruments](https://www.phdays.com/en/program/reports/blockchain-security-technology-vulnerabilities-and-a-smart-contract-auditors-instruments/)
+
 ### Tools
 * [mythril](https://github.com/ConsenSys/mythril)
 
