@@ -9,6 +9,7 @@
 * [Smashing Ethereum smart contracts for fun and real profit](https://github.com/b-mueller/smashing-smart-contracts/blob/master/smashing-smart-contracts-1of1.pdf) + [repo](https://github.com/b-mueller/smashing-smart-contracts)
 * [Understanding The **DAO Attack**](https://www.coindesk.com/understanding-dao-hack-journalists/)
 * [**Predicting Random Numbers** in Ethereum Smart Contracts](https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620)
+* [Building up from the Ethereum **Bytecode** | Practical **Decompilation** of Ethereum Smart Contracts](https://blog.ret2.io/2018/05/16/practical-eth-decompilation/)
 
 ### Talks
 * [PHDays2018. Blockchain security: technology vulnerabilities and a smart contract auditor's instruments](https://www.phdays.com/en/program/reports/blockchain-security-technology-vulnerabilities-and-a-smart-contract-auditors-instruments/)
